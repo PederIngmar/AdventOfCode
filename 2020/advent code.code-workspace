@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\it 1"
+		},
+		{
+			"path": "..\\..\\project euler"
+		},
+		{
+			"path": "..\\..\\python"
+		},
+		{
+			"path": "..\\advent of code 2016"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "C:\\Users\\peder1403\\.conda\\envs\\peder\\python.exe",
+		"python.condaPath": "C:\\ProgramData\\Anaconda3\\Scripts"
+	}
+}
